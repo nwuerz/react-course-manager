@@ -1,0 +1,25 @@
+.cc-loggedIn {
+    background-color: #07393C;
+    color: #faedd7;
+}
+
+.cc-loggedOut {
+    background-color: #3f8f99;
+    color: #faedd7;
+}
+
+.cc-loggedOut:hover {
+    background-color: #7bc3cc;
+    color: #faedd7;
+}
+
+#h2LoggedIn {
+    color: #3f8f99;
+    font-weight: bold; 
+
+}
+
+#h2LoggedOut {
+    color: #094649; 
+    font-weight: bold; 
+}

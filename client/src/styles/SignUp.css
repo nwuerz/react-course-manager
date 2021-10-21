@@ -1,0 +1,43 @@
+.txt-footer {
+    background-color: #398994;
+    color: #faedd7;
+    border-radius: .5rem;
+    padding: 4px 0 4px 0 ;
+    text-align:center;
+}
+
+.buttonsDiv{
+    text-align:center;
+}
+
+.buttons {
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px;
+    padding: 4px;
+    background-color: #3f8f99;
+    color: #faedd7;
+    cursor: pointer;
+    border: none;
+    border-radius: .5rem;
+    box-shadow: 5px 5px #888888;
+}
+
+.buttons:hover{
+    background-color: #7fc1ca;
+    color: #f7f3ee;
+}
+
+.signup-link {
+    -webkit-text-fill-color: #d8f3fa;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #00ccffd8;
+    font-weight: bold;
+    font-size: large;
+}
+
+.signup-link:hover {
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #00ccff;
+}

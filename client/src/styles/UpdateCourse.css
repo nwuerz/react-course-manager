@@ -1,0 +1,37 @@
+.uc-update-course{
+    font-weight: bold;
+    font-size: large;
+    margin: 10px;
+    padding: 4px;
+    background-color: #3f8f99;
+    color: #faedd7;
+    cursor: pointer;
+    border: none;
+    border-radius: .5rem;
+}
+
+.uc-update-course:hover{
+    background-color: #7fc1ca;
+    color: #f7f3ee;
+}
+
+.uc-cancel-course{
+    font-weight: bold;
+    font-size: large;
+    margin: 10px;
+    padding: 4px;
+    background-color: #3f8f99;
+    color: #faedd7;
+    cursor: pointer;
+    border: none;
+    border-radius: .5rem;
+}
+
+.uc-cancel-course:hover{
+    background-color: #7fc1ca;
+    color: #f7f3ee;
+}
+
+#uc-heading{
+    color: #07393C;
+}

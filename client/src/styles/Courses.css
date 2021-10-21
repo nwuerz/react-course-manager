@@ -1,0 +1,19 @@
+#loggedIn {
+    background: #07393C;
+    color: #faedd7;
+    font-weight: bold;
+}
+
+#loggedOut {
+    background: #398994;
+    color: #faedd7;
+    font-weight: 500;
+}
+
+#loggedOut:hover {
+    background-color: #7bc3cc;
+}
+
+#loggedOut:hover svg{
+    fill: #2a464d;
+}

@@ -1,0 +1,53 @@
+.loggedIn {
+    background-color: #07393C;
+}
+
+.loggedOut {
+    background-color: #398994;
+    color: #faedd7;
+}
+
+#courseButton {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px #686868;
+    -webkit-text-fill-color: #faedd7;
+    -webkit-text-stroke-width: 0.1px;
+    -webkit-text-stroke-color: #686868;
+    font-weight: bold;
+}
+
+#courseButton:hover {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px #faedd7;
+    -webkit-text-fill-color: #686868;
+    -webkit-text-stroke-width: 0.1px;
+    -webkit-text-stroke-color: #faedd7;
+    font-weight: bold;
+}
+
+.navLink {
+    -webkit-text-fill-color: #d8f3fa;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #00ccffd8;
+    font-weight: bold;
+    font-size: large;
+}
+.navLink:hover {
+    color: #f1ede4;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#signOutBtn {
+    color: #e24682;
+}
+
+#signOutBtn:hover {
+    font-weight: bold;
+}
+
+#signIn {
+    color: #f1ede4;
+}

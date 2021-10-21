@@ -1,0 +1,58 @@
+.cd-loggedIn {
+    background-color: #07393C;
+}
+
+.cd-loggedOut {
+    background-color: #f5eee2;
+    color: #faedd7;
+}
+
+.cd-button{
+    color: #00ccffd8;
+    text-shadow: 1px 1px #014b5ed8;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px
+}
+
+.cd-button:hover{
+    color: #71e0fc;
+    text-shadow: 1px 1px #2f5e69;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px
+}
+
+.cd-delete-button{
+    color: #fd3333d3;
+    text-shadow: 1px 1px #5e0101d8;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px;
+}
+
+.cd-delete-button:hover{
+    color: #ff6161;
+    text-shadow: 1px 1px #5e0101d8;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.cd-update-button{
+    color: #3dc53d;
+    text-shadow: 1px 1px #3dc53d59;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px
+}
+
+.cd-update-button:hover{
+    color: #62dd62;
+    text-shadow: 1px 1px #88dd8859;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.heading {
+    color: #07393C
+}
